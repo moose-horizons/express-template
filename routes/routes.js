@@ -10,6 +10,10 @@ router.get('/', function(req, res, next) {
   res.render('home');
 });
 
+router.get('/ricky', function(req, res, next) {
+  res.send('Ricky route!');
+});
+
 ///////////////////////////// END OF PUBLIC ROUTES /////////////////////////////
 
 router.use(function(req, res, next){
