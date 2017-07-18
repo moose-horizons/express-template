@@ -14,6 +14,10 @@ router.get('/moose', function(req, res) {
   res.send('You have reached the Moose route');
 });
 
+router.get('/ricky', function(req, res, next) {
+  res.send('Ricky route!');
+});
+
 ///////////////////////////// END OF PUBLIC ROUTES /////////////////////////////
 
 router.use(function(req, res, next){
