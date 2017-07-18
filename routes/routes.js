@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
   res.render('home');
 });
 
-router.get('/moose', function(req, res) {
+router.get('/ricky', function(req, res) {
   res.send('THIS IS A NEW ROUTE');
 });
 
