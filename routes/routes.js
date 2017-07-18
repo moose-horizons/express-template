@@ -10,6 +10,10 @@ router.get('/', function(req, res, next) {
   res.render('home');
 });
 
+router.get('/moose', function(req, res) {
+  res.send('THIS IS A NEW ROUTE');
+});
+
 ///////////////////////////// END OF PUBLIC ROUTES /////////////////////////////
 
 router.use(function(req, res, next){
