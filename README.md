@@ -1,3 +1,3 @@
-# Moose's project
+# Smitha's project
 
-This project is awesome
+This project is beyond awesome
