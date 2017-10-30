@@ -1,7 +1,3 @@
-# Brock's Project
+# Moose's project
 
-Update
-
-Update 2
-
-TBD
+This project is awesome
