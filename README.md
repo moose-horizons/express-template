@@ -1,3 +1,3 @@
-# Smitha's project
+# Matt and Smitha's project
 
-This project is beyond awesome
+This project is really awesome
