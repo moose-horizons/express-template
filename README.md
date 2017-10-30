@@ -1,3 +1,3 @@
-# Moose's project
+# Matt's project
 
-This project is awesome
+This project is really awesome
